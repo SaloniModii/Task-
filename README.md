@@ -10,3 +10,11 @@ The game continues till Player 2 eventually is able to guess the number entirely
 Now, Player 2 gets to set the number and Player 1 plays the part of guessing the number.
 If Player 1 is able to guess the number within a lesser number of tries than Player 2 took, then Player 1 wins the game and is crowned Mastermind.
 If not, then Player 2 wins the game.
+
+# Task-2
+ROCK PAPER SCISSOR GAME
+
+Winning Rules as follows:
+Rock vs paper-> paper wins
+Rock vs scissor-> Rock wins
+paper vs scissor-> scissor wins
